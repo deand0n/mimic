@@ -7,6 +7,6 @@ Features:
 - Keyboard friendly navigation inspired by Vim
 - Pause or resume rules at any moment
 
-Inspired by Mock API Responses -https://chromewebstore.google.com/detail/npdofjlahafeeodffcjkflbcfomjmfph?utm_source=item-share-cb
-Icon by
-Monogram Letter M Vectors by Vecteezy
+Inspired by Mock API Responses - https://chromewebstore.google.com/detail/npdofjlahafeeodffcjkflbcfomjmfph?utm_source=item-share-cb
+
+Icon by Monogram Letter M Vectors by Vecteezy
